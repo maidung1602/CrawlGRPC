@@ -1,0 +1,107 @@
+syntax = "proto3";
+
+option csharp_namespace = "CrawlerGRPCClient";
+
+package crawler;
+
+service Crawler {
+    rpc Start (StartRequest) returns (StartResponse) {}
+    rpc Stop (StopRequest) returns (StopResponse) {}
+    rpc Crawl (CrawlRequest) returns (CrawlResponse) {}
+    rpc Delete (DeleteRequest) returns (DeleteResponse) {}
+    rpc Status (StatusRequest) returns (StatusResponse) {}
+    rpc GetCategories (CategoriesRequest) returns (CategoriesResponse) {}
+    rpc GetArticle (ArticleRequest) returns (ArticleResponse) {}
+    rpc GetArticles (ArticlesRequest) returns (ArticlesResponse) {}
+}
+
+message ArticleM {
+    int32 id = 1;
+    string title = 2;
+    string content = 3;
+    int32 categoryId = 4;
+    int32 page = 5;
+    string url = 6;
+    string createdAtUTC = 7; 
+}
+
+message CategoryM {
+    int32 id = 1;
+    string url = 2;
+}
+// start
+
+message StartRequest {}
+message StartResponse {
+     string message = 1; 
+}
+
+//stop
+
+message StopRequest {}
+message StopResponse {
+ string message = 1;
+}
+
+//crawl
+
+message CrawlRequest {
+    string categoryUrl = 1;
+    int32 pages = 2;
+}
+
+message CrawlResponse {
+    string message = 1;
+}
+
+//delete
+
+message DeleteRequest {
+    int32 id = 1;
+}
+message DeleteResponse {
+    string message = 1;
+}
+
+//status
+
+message CrawlTask {
+     string CategoryUrl = 1;
+     int32 Pages = 2;
+}
+
+message StatusRequest {}
+message StatusResponse {
+    int32 taskCount = 1;
+    CrawlTask runningTask = 2;
+    string runningTime = 3;
+}
+
+// get all category
+
+message CategoriesRequest {}
+message CategoriesResponse {
+    repeated CategoryM categories = 1;
+}
+
+// get article by id
+
+message ArticleRequest {
+    int32 id = 1;
+}
+
+message ArticleResponse {
+    ArticleM articles = 1;
+}
+
+// get articles by categoryId and page
+
+message ArticlesRequest {
+    int32 categoryId = 1;
+    int32 page = 2;
+}
+
+message ArticlesResponse {
+    repeated ArticleM articles = 1;
+}
+

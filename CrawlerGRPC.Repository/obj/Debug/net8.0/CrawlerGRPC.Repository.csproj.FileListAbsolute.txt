@@ -1,0 +1,90 @@
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.deps.json
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.runtimeconfig.json
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\appsettings.Development.json
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\appsettings.json
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.exe
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.deps.json
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.dll
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.pdb
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Data.dll
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.dll
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Data.pdb
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.pdb
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.AssemblyReference.cache
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.AssemblyInfoInputs.cache
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.AssemblyInfo.cs
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.CoreCompileInputs.cache
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.CopyComplete
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.dll
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\refint\CrawlerGRPC.Repository.dll
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.pdb
+E:\CrawlerGRPC (1)\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\ref\CrawlerGRPC.Repository.dll
+E:\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.deps.json
+E:\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.dll
+E:\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.pdb
+E:\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Context.dll
+E:\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Data.dll
+E:\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Context.pdb
+E:\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Data.pdb
+E:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.AssemblyReference.cache
+E:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.AssemblyInfoInputs.cache
+E:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.AssemblyInfo.cs
+E:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.CoreCompileInputs.cache
+E:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.CopyComplete
+E:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.dll
+E:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\refint\CrawlerGRPC.Repository.dll
+E:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.pdb
+E:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\ref\CrawlerGRPC.Repository.dll
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.deps.json
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.dll
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.pdb
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Context.dll
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Data.dll
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Context.pdb
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Data.pdb
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.CopyComplete
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.dll
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\refint\CrawlerGRPC.Repository.dll
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.pdb
+C:\Users\Admin\source\repos\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\ref\CrawlerGRPC.Repository.dll
+C:\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.deps.json
+C:\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.dll
+C:\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.pdb
+C:\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Context.dll
+C:\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Data.dll
+C:\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Context.pdb
+C:\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Data.pdb
+C:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.AssemblyReference.cache
+C:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.AssemblyInfoInputs.cache
+C:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.AssemblyInfo.cs
+C:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.CoreCompileInputs.cache
+C:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.CopyComplete
+C:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.dll
+C:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\refint\CrawlerGRPC.Repository.dll
+C:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.pdb
+C:\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\ref\CrawlerGRPC.Repository.dll
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.deps.json
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.dll
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Repository.pdb
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Context.dll
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Data.dll
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Context.pdb
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\bin\Debug\net8.0\CrawlerGRPC.Data.pdb
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.AssemblyInfo.cs
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.csproj.CopyComplete
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.dll
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\refint\CrawlerGRPC.Repository.dll
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\CrawlerGRPC.Repository.pdb
+C:\Users\Admin\Downloads\CrawlerGRPC\CrawlerGRPC.Repository\obj\Debug\net8.0\ref\CrawlerGRPC.Repository.dll

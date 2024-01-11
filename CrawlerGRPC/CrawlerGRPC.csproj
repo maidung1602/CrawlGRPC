@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.25.1" />
+    <PackageReference Include="Grpc.AspNetCore" Version="2.57.0" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.57" />
+    <ProjectReference Include="..\CrawlerGRPC.Data\CrawlerGRPC.Data.csproj" />
+    <ProjectReference Include="..\CrawlerGRPC.Repository\CrawlerGRPC.Repository.csproj" />
+	  <Protobuf Include="Protos\crawler.proto" GrpcServices="Server" />
+  </ItemGroup>
+
+</Project>

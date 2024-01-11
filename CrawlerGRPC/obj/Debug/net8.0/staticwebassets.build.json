@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3EFLcTUMkOMTkrF+IWuSO1vMe8PhA+LN/NE+t6j++Lw=",
+  "Source": "CrawlerGRPC",
+  "BasePath": "_content/CrawlerGRPC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
